@@ -15,7 +15,7 @@ public class GoogleBillboard {
 	
 	}
 	//Finish this function
-	public boolean isPrime(double d){
+	public static boolean isPrime(double d){
 		 if(d<2){//Checks the number inside the parameter to show false if the number is less than 2 since it wont be prime if less than 2
 		    return false;
 		  }
